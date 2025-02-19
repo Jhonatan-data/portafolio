@@ -1,5 +1,5 @@
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
-!https://raw.githubusercontent.com/Jhonatan-data/portafolio/master/asset/link.jpg
+<span>https://raw.githubusercontent.com/Jhonatan-data/portafolio/master/asset/link.jpg</span>
 ## Herramientas utilizadas:
 
 * HTML
