@@ -1,5 +1,5 @@
 # Portfolio ¡Hola, bienvenido a mi proyecto de portafolio!
-<span>https://raw.githubusercontent.com/Jhonatan-data/portafolio/master/asset/link.jpg</span>
+![](https://raw.githubusercontent.com/Jhonatan-data/portafolio/master/asset/link.jpg)![]
 ## Herramientas utilizadas:
 
 * HTML
@@ -8,8 +8,6 @@
 
 * Flex-box
 
-## Hecho por:
-
-###Jhonatan Moreno Velásquez
+## Hecho por:Jhonatan Moreno Velásquez
 
 ### Linkedin:https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/jhonatanmv/
