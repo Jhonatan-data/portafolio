@@ -11,4 +11,4 @@
 
 ## Hecho por:Jhonatan Moreno Velásquez - AluraLatam - Oracle
 
-### Linkedin:https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/jhonatanmv/
+### Linkedin:https://www.linkedin.com/in/jhonatanmv/
